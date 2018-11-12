@@ -1,0 +1,23 @@
+#final-exam-card {
+  padding: 1em;
+}
+
+.input-group {
+  margin-top: 1em;
+}
+
+.mt-1 {
+  margin-top: 1em;
+}
+
+.mt-2 {
+  margin-top: 2em;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
